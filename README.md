@@ -1,2 +1,2 @@
-# PinoyFix_solarpower-aws-hackathon
+# PinoyFix
 AWS Cloud Club PUP - Solar Power Hackathon Submission
